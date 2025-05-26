@@ -1,5 +1,3 @@
-Certainly! Here’s a professional and informative README.md for your responsive landing page project:
-
 Responsive Landing Page
 A modern, responsive landing page built with HTML5 and CSS3. This project demonstrates clean structure, flexible layouts, and mobile-friendly navigation—perfect as a template for personal or business websites.
 
@@ -15,7 +13,8 @@ Hero Section: Eye-catching introduction with call-to-action
 Footer: Social media links and copyright
 
 🖼️ Preview
-![Landing Page Screenshot](screenshot.png of your page and name it screenshot.png in the repo for best results)*
+![image](https://github.com/user-attachments/assets/6f58bd0a-d08e-41d6-9642-a6cb57fdf6a9)
+
 
 📁 Files
 index.html — Main HTML structure
@@ -26,7 +25,7 @@ style.css — All styles and responsive rules
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/responsive-landing-page.git
+git clone https://github.com/MrinalManu1/Responsive_webPage.gi
 cd responsive-landing-page
 Open the project:
 
