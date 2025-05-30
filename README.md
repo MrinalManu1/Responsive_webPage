@@ -25,7 +25,7 @@ style.css — All styles and responsive rules
 Clone the repository:
 
 bash
-git clone https://github.com/MrinalManu1/Responsive_webPage.gi
+git clone https://github.com/MrinalManu1/Responsive_webPage
 cd responsive-landing-page
 Open the project:
 
